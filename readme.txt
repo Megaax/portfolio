@@ -15,6 +15,4 @@ Version 1.0 14-05-2018
 - Pexels https://www.pexels.com/
 - Unsplash https://unsplash.com/
 
-License:
------------------------
-This template is under Free License - https://www.themesine.com/license/
+mohamed magdy
