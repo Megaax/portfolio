@@ -239,13 +239,13 @@ nav.navbar.bootsnav ul.nav>li.dropdown span {
 nav.navbar.bootsnav .navbar-toggle {
     position: relative;
     background-color: transparent;
-    border: 1px solid #d92cf9;
+    border: 1px solid #6236ff;
     padding: 10px;
     top: 0;
 }
 
 nav.navbar.bootsnav .navbar-toggle i {
-    color: #d92cf9;
+    color: #6236ff;
 }
 
 /*.navbar-toggle */
@@ -286,7 +286,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 }
 
 .header-text h2 span {
-    color: #d92cf9;
+    color: #6236ff;
 }
 
 .header-text p {
@@ -305,8 +305,8 @@ nav.navbar.bootsnav .navbar-toggle i {
     border-radius: 3px;
     text-transform: capitalize;
     color: #fff;
-    background: #b636ff;
-    border: 1px solid #b636ff;
+    background: #6236ff;
+    border: 1px solid #6236ff;
     box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
     -webkit-transition: 0.3s linear;
     -moz-transition: 0.3s linear;
@@ -317,8 +317,8 @@ nav.navbar.bootsnav .navbar-toggle i {
 
 .header-text a:hover {
     box-shadow: 0 5px 20px rgba(0, 0, 0, .4);
-    background: #9f00ff;
-    border: 1px solid #9f00ff;
+    background: #6236ff;
+    border: 1px solid #6236ff;
 }
 
 /*.header-text-area*/
@@ -477,7 +477,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 
 .timeline-horizontal-border i {
     font-size: 10px;
-    color: #d92cf9;
+    color: #000648;
     margin-right: 5px;
 }
 
@@ -523,7 +523,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 
 .single-progress-txt h3 {
     width: 10%;
-    color: #a606c3;
+    color: #6236ff;
     position: relative;
     top: 6px;
     left: 20px;
@@ -546,7 +546,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 }
 
 .progress-bar {
-    background: #b636ff;
+    background: #6236ff;
     border-radius: 3px;
     -webkit-transition: width 1.5s ease-in-out;
     -ms-transition: width 1.5s ease-in-out;
@@ -635,7 +635,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 
 .timeline-content span>i,
 .experience-time span>i {
-    color: #d92cf9;
+    color: #6236ff;
     position: absolute;
     font-size: 10px;
     left: -14.5%;
@@ -1045,8 +1045,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     font-size: 20px;
     cursor: pointer;
     color: #fff;
-    background: #b636ff;
-    border: 1px solid #b636ff;
+    background: #6236ff;
+    border: 1px solid #6236ff;
     border-radius: 50%;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -1058,8 +1058,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 
 #scroll-Top .return-to-top:hover {
     background: #fff;
-    color: #b636ff;
-    border: 1px solid #b636ff;
+    color: #6236ff;
+    border: 1px solid #6236ff;
 }
 
 #scroll-Top .return-to-top i {
